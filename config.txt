@@ -1,0 +1,1 @@
+--metric F2 --precision 4
